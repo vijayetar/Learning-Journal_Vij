@@ -15,7 +15,5 @@ Reminders to your self about growth mindset
 - No pain, no gain with effort
 
 ## Here is something about me 
-[click here] (https://github.com/vijayetar)
- 
- # Heading trial
- \# Heading trial
+(https://github.com/vijayetar)
+
