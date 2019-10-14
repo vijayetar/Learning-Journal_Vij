@@ -13,3 +13,6 @@ Reminders to your self about growth mindset
 - Embraces challenges
 - Persists with obstacles
 - No pain, no gain with effort
+
+[]pass
+[]fail
