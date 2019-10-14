@@ -8,3 +8,4 @@ Codefellows 102: Markdown
 Links for website 
 - [click here] (https://djfkdjf)
 - ![image click here] (image embedded in the content)
+To show just code wihtout running "\\\" or just one line "\....\"
