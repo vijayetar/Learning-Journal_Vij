@@ -14,5 +14,5 @@ Reminders to your self about growth mindset
 - Persists with obstacles
 - No pain, no gain with effort
 
-- [ ]pass
-- [ ]fail
+[x]pass
+[ ]fail
