@@ -14,5 +14,5 @@ Reminders to your self about growth mindset
 - Persists with obstacles
 - No pain, no gain with effort
 
-[x]pass
-[ ]fail
+## Here is something about me 
+[click here] (https://github.com/vijayetar)
