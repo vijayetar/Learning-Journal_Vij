@@ -1,7 +1,10 @@
+#Codefellows 102: Markdown
 
-# What I learned about Markdown:
+## What I learned about Markdown:
 - Title headings with # -->######
 - List by "-", * ro +
 - Shows quotes ">"
 - Bold "**", italic "*" **
-Links
+Links for website 
+- [click here] (https://djfkdjf)
+- ![image click here] (image embedded in the content)
