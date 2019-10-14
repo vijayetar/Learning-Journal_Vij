@@ -1,4 +1,7 @@
+
 # What I learned about Markdown:
 - Title headings with #
-- List by "-"
-- >Shows quotes
+- List by "-", * ro +
+- Shows quotes ">"
+- Bold "**", italic "*" **
+
