@@ -17,5 +17,5 @@ Reminders to your self about growth mindset
 ## Here is something about me 
 [click here] (https://github.com/vijayetar)
  
- #Heading trial
- \#Heading trial\
+ # Heading trial
+ \# Heading trial
