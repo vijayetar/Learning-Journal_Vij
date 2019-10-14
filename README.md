@@ -1,4 +1,4 @@
-# Vij's Learning Journal (my first web page)
+# Vij's Learning Journal
 
 Today I will learn
 - Markdown
