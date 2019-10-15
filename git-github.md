@@ -7,9 +7,12 @@
  - Git allows team members to sync while being remote
  - Git keeps all files in one repository
  
- # How do you use Git?
+ ## How does Git work?
  - Simply, Git takes snapshots (or commits) in time. This is done with the "add" and "commit", where each commit represents each version of the file. These commits are stored and data is not lost each time. They are stored locally until they are "pushed".
- - To Keep track
+ - To Keep track of the snapshots
    - Each commit (snapshot) has labels
    - HEAD = The label meaning "You Are Here"
    - Use messages to write captions on your commits, that allows us to track changes.
+   
+## What is GitHub?
+- It is online place to store code.
