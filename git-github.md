@@ -1,6 +1,6 @@
 # Git vs GitHub
 ## Introduction
- - Git is the software while Github is the cloud
+ - Git is the software while GitHub is the cloud
  - Git is also version control software that is distributed (vs others that are centralized or localized)
  - GitHub allows sharing of files and editing between users while actively keeping track of changes
  - Github is open sourced - ie anyone can make changes and available to all 
@@ -18,3 +18,11 @@
 ## What is GitHub?
 - It is online place to store code
 - It uses Git to make the repositories accessible locally and remotely
+
+## Commands to learn
+- Copy repo into the desktop
+  - git clone *add the url of the repo from GitHub* 
+- See the hidden git file
+  - ls -a
+- Open VS code
+  - code .
