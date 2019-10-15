@@ -19,10 +19,26 @@
 - It is online place to store code
 - It uses Git to make the repositories accessible locally and remotely
 
-## Commands to learn
+## Commands you will frequently use
 - Copy repo into the desktop
   - git clone *add the url of the repo from GitHub* 
+- Get into the actual file 
+  - command cd (filename)
+  - confirm with pwd
 - See the hidden git file
   - ls -a
-- Open VS code
+- Open VS code and edit file
   - code .
+  - make changes on the file through VS code
+  - add file in the same repo using the (*add file* icon) 
+  - save file with changes on the VS code
+ - In terminal, start to add/commit/push these repo
+  - git add (file name)
+  - git commit -m"message to yourself"
+  - git push origin master
+ - Confirm git status each time
+  - git status (red means it needs to be added, green means it needs to be commited)
+ - Confirm change on GitHub
+   - Get into the repo and then dont forget to refresh
+   - You can view the changes on the commits tab 
+  
