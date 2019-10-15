@@ -1,6 +1,6 @@
 # Growth Mindset
 
-# Definition of growth mindset:
+### Definition of growth mindset:
 **It is learning with love**
 > It is not having fixed mindset focused on *inherent* skills vs *acquiring* new skills.
 
@@ -8,3 +8,5 @@
 - Embraces challenges
 - Persists with obstacles
 - No pain, no gain with effort
+
+[Return to homepage](README.md)
