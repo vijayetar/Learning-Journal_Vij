@@ -15,18 +15,15 @@ Terminal aka command line interface (cli)
 
 The command Line: 
 A command line or terminal is a text based interface to the computer system, which is important for developer.
-1. terminal command ls -1 lists location
-2. cd.
-3. mkdir
-4. pwd or print working dir
-5. ls
-6. cd~
-7. cdwr
-8. ls -a
+1. ls (lists files)
+2. cd (go to ...)
+3. mkdir (make directory)
+4. pwd or print working dir (know where you are)
+5. cd ../ (go up directory)
+6. cd ~
+7. cdwr (for windows)
+8. ls -a (lists all files including hidden files)
 9. ls-la
 10 touch
-11. chrome.
-12 or open. (mac)
-13. code. (in open vscode)
+11 code. (in open vscode)
 
-Terminals vs file explorer - same functios (but more in terminals)
