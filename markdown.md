@@ -1,4 +1,4 @@
-Codefellows 102: Markdown
+# **Markdown**
 
 ## What I learned about Markdown:
 - Title headings with # -->######
