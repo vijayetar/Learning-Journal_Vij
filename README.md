@@ -1,9 +1,9 @@
 # Vij's Learning Journal
 
 I am a pediatrician of 6 years, looking to use coding skills in healthcare.
-(https://github.com/vijayetar)
+Please see my [GitHub](https://github.com/vijayetar) profile.
 
-## Table of Contents
+### **Table of Contents of my Learning Journal**
 - [Markdown](markdown.md) 
 - [Growth-Mindset](growth-mindset.md)
 - [CheatSheet](cheatsheet.md)
