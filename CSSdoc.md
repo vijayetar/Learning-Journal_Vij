@@ -17,6 +17,7 @@ CSS allows you to create rules for how the content elements should appear.
    - add !important after any property value and that will make it more important.
 1. Inheritance ???
 1. Check out browser quirks *(page 242)*
+
 ### **Chapter 11 Color, page 246**
 Specify colors in three ways
    - RGB values (how much color), eg. rgb(100,100,90)
