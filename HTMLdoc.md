@@ -1,6 +1,6 @@
 # **HTML**
 It is short for Hyper-Text Markup Language
-## **Advantages**
+## **Important Points**
 - accessible to everyone
 - very user-friendly
 - familiar semantics for a document with main, header, footer
@@ -8,6 +8,9 @@ It is short for Hyper-Text Markup Language
   - open/close/self-closing
 
 - skeleton of the website
+- structural markup elements that you can use to desccrible both headings and paragraphs
+- semantic markup provides extra information, emphasizes parts of sentence
+- Divided into head (with title and language), body (divided into header, footer and main)
 
 ## **Different Tags used in HTML**
 - some different types of tags
