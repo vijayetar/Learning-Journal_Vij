@@ -22,9 +22,6 @@
 - All functions process but do not have to provide return
 - **Name value pairs** are important
 
-> Two different ways to write function
-- you can use var
-   - 
-- you can use function declaration
+[Return to homepage](README.md)
 
 

@@ -12,7 +12,7 @@ Please see my [GitHub](https://github.com/vijayetar) profile.
 - [CSS learning](CSSdoc.md)
 - [Javascript](javascriptdoc.md)
 - [How computers work](computers.md)
-- [Js Functions](JS_functions.md)
+- [js Functions](JS_functions.md)
 
 
 
