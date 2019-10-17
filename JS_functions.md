@@ -5,14 +5,14 @@
 1. Code each step
 1. Sketch out tasks in a flow chart
 
->## Script *(pg 1-24)*
+>## Script *(page 1-24)*
 - Script is made up of statements
 - expressions assign values to a variable or are use two or more values to return a single value
 - Expressions need **operators** to work, e.g. "=" are **assignment operators**, "+,-,/,*, ++, --, %" are **arithmetic operators** or **string operators**
 - **Comparison operators** e.g."> or <"
 - **logical operators** e.g. "&"
 
->## Take home messages *(pg 88-91)*
+>## Take home messages *(page 88-91)*
 - Functions let you group a series of statements together to perform a specific task. If different parts of the script repeat the same task, you can reuse the function
 - The series of statements are a **code block**
 - **declaring** function e.g. *function askName(){put logic in here}*
@@ -22,7 +22,7 @@
 - All functions process but do not have to provide return
 - **Name value pairs** are important
 
->## Parameters vs Arguments *(pg 92-94)*
+>## Parameters vs Arguments *(page 92-94)*
 1. first assign a name and **declare** a function to it
 1. The function may have fixed value or may need **parameters** entered
 1. **call** the function using its name
