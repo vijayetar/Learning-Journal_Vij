@@ -22,6 +22,13 @@
 - All functions process but do not have to provide return
 - **Name value pairs** are important
 
+>## Parameters vs Arguments
+1. first assign a name and **declare** a function to it
+1. The function may have fixed value or may need **parameters** entered
+1. **call** the function using its name
+1. if there are variables in the function, for the function to work properfly, you may have to enter **argument**
+1. You could get a single value out of the function or multiple values (called **array**)
+
 [Return to homepage](README.md)
 
 
