@@ -9,8 +9,8 @@
 - Script is made up of statements
 - expressions assign values to a variable or are use two or more values to return a single value
 - Expressions need **operators** to work, e.g. "=" are **assignment operators**, "+,-,/,*, ++, --, %" are **arithmetic operators** or **string operators**
-- **Comparison operators** e.g."> or <"
-- **logical operators** e.g. "&"
+- **Comparison operators** Only return value of true or false e.g."> or <" have two operands that they need. Operators can be ">,>=,==,=== (stricly equal), !=, !== (strict not equal to)
+- **logical operators** they allow you to copare results of more than one comparison operator e.g. "((5<2) && (2 >=3))" : these are expressions separated by logical operator to create another expression. "&&" is Logical AND; "II" is Logical OR; "!" is Logical NOT
 
 >## Take home messages *(page 88-91)*
 - Functions let you group a series of statements together to perform a specific task. If different parts of the script repeat the same task, you can reuse the function
@@ -28,6 +28,13 @@
 1. **call** the function using its name
 1. if there are variables in the function, for the function to work properfly, you may have to enter **argument**
 1. You could get a single value out of the function or multiple values (called **array**)
+
+>## Loops *(page 170 - 173, and 176)*
+
+- Loops check condition. If it returns true, a code block will run. and it will continue running until condition returns false.
+- For loops - is linear with operation has a start and stop
+- While loop - can be forever until conditions are achieved
+- Do While loop- at least does the function once irrespective of the condition.
 
 [Return to homepage](README.md)
 
