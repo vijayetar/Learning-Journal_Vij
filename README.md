@@ -11,6 +11,7 @@ Please see my [GitHub](https://github.com/vijayetar) profile.
 - [HTML learning](HTMLdoc.md)
 - [CSS learning](CSSdoc.md)
 - [Javascript](javascriptdoc.md)
+- [how computers work](computers.md)
 
 
 
