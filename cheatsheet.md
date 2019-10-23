@@ -25,5 +25,17 @@ A command line or terminal is a text based interface to the computer system, whi
 9. ls-la
 10 touch
 11 code. (in open vscode)
+12. mkdir
+Make Directory - ie. Create a directory.
+13. rmdir
+Remove Directory - ie. Delete a directory.
+14. touch
+Create a blank file.
+15. cp
+Copy - ie. Copy a file or directory.
+16. mv
+Move - ie. Move a file or directory (can also be used to rename).
+17. rm
+Remove - ie. Delete a file.
 
 [Return to homepage](README.md)
