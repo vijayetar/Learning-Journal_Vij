@@ -1,7 +1,10 @@
 # Vij's Learning Journal
 
+## see my new changes
+
 I am a pediatrician of 6 years, looking to use coding skills in healthcare.
 Please see my [GitHub](https://github.com/vijayetar) profile.
+
 
 ### **Table of Contents of my Learning Journal**
 - [Markdown](markdown.md) 
