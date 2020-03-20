@@ -25,3 +25,5 @@
 - Variables use need "declaration" and "=" is assignment operator to give it a value to the operators. 
 
 [Return to homepage](README.md)
+
+Hi this is just me checking if this git command works on my terminal
